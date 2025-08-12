@@ -2,8 +2,6 @@
 
 A WordPad-style editor for Zorin OS built with PyQt6. Save and edit rich text as HTML/“.zpad”, with optional export to RTF/DOCX/ODT via Pandoc. Preferences (font, size, wrap, zoom, reopen last file, recent files) persist across sessions.
 
-> Modeled after your ZorinShot repo’s clean README layout. 😉
-
 ## ✨ Features
 
 - Rich-text editor (HTML under the hood; native `.zpad`)
